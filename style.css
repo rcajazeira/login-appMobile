@@ -1,0 +1,30 @@
+body {
+  margin: 0;
+  font-family: Arial, sans-serif;
+  background-color: #1e1e1e;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+  align-items: flex-start;
+  gap: 20px;
+  padding: 40px;
+}
+
+
+.tela-login{
+  width: 370px;
+  height: 750px;
+  border-radius: 30px;
+  background-color: #000;
+  background-size: cover;
+  background-position: center;
+  box-shadow: 0 10px 30px rgba(0, 0, 0, 0.5);
+}
+
+.tela-login{
+  background-image: url('/mnt/data/05826f15-1f54-4c97-b4fa-dac6cb75ca15.png');
+  background-position: left top;
+  background-size: 750px auto; 
+}
